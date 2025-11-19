@@ -1,0 +1,9 @@
+
+body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f7f9fc; color:#222; }
+header { background:#1e1e2f; padding:20px; color:white; text-align:center; }
+nav a { margin:0 15px; color:white; text-decoration:none; font-weight:bold; }
+section { max-width:900px; margin:40px auto; background:white; padding:30px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); }
+h1, h2 { color:#1e1e2f; }
+footer { text-align:center; padding:20px; margin-top:40px; color:#777;}
+.button { display:inline-block; background:#4a6cf7; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold; }
+.pricing-card { border:1px solid #ddd; padding:20px; border-radius:10px; margin:20px 0; }
